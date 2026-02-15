@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">GP Input Validation</string>
+    <string name="txt_title">Jeremy Lockhart - Electric Car Financing</string>
+    <string name="txt_num_yrs">Number of Years</string>
+    <string name="hint1">Car Loan Amount</string>
+    <string name="hint2">Interest Rate</string>
+    <string name="btn_payment">Car Payment</string>
+    <string name="img_description">Number of Years Image</string>
+    <string name="txt_payment">Monthly Payment</string>
+    <string-array name="starr_yrs">
+        <item>3 Years</item>
+        <item>4 Years</item>
+        <item>5 Years</item>
+    </string-array>
 </resources>
